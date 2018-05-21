@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+.box {
+  width: 100%;
+  height: 200px;
+  background-color: red;
+}
+.header-dark {
+  background-color:gray;
+}
+
+.carousel-item {
+  height:200px;
+}
